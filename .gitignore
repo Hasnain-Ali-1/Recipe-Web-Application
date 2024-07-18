@@ -1,0 +1,10 @@
+*.txt
+*.cert
+poetry.lock
+pyproject.toml
+*.crt
+env/
+__pycache__/
+*.csv
+env/
+node_modules/
